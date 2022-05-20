@@ -1,0 +1,6 @@
+.body {
+  height: 95vh;
+  background: linear-gradient(#6465f4, #c6c7f6);
+  background-size: cover;
+  background-position: top;
+}
